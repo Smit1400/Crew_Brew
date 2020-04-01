@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "838407905794",
+    "firebase_url": "https://smit-brew-crew.firebaseio.com",
+    "project_id": "smit-brew-crew",
+    "storage_bucket": "smit-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838407905794:android:b6a8d3a2efba32ad6ffd1b",
+        "android_client_info": {
+          "package_name": "com.smitshah.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838407905794-at1lergjoh17vinl2a1hb8beqaj02fde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0vhrSQLkGfYMdLGf8Y6Iu4nmE1XH16m4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838407905794-at1lergjoh17vinl2a1hb8beqaj02fde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
