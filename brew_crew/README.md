@@ -4,7 +4,7 @@ I have made this using Flutter
 
 In this project we take details from user about their coffee prferences like sugar,strength(i.e.how strong the coffee should be),etc..
 This can be used in companies so that they don't need to everyday tell how their coffee will be,
-instead the can login in to this app and choose how theri coffee need to be and they are set.
+instead they can login in to this app and choose how their coffee need to be and they are set.
 
 i have used Firebase for backend.
 
