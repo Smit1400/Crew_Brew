@@ -7,7 +7,7 @@ This app is made using Flutter. It's a coffee app to store users preferences abo
 
 ### > To run the app
 
-> `cd into Crew_Brew`
+> `cd into brew_crew`
 #### and then
 > `flutter run`
 
